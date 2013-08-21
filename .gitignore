@@ -5,3 +5,7 @@ phpmyinfo.php
 stub.php
 files/
 pics/
+includes/db_info.bh.php
+includes/db_info.bt.php
+includes/db_info.inc.php
+includes/db_info.local.php
